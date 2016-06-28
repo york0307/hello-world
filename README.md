@@ -1,4 +1,6 @@
 # hello-world
 my first git-hub repository
 
-Please README  FIRST!
+ README  FIRST!
+  
+  New 版本！
